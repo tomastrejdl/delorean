@@ -1,0 +1,39 @@
+[Header]
+ICOfile = "hdrmaps_com_free_068_Thumb.jpg"
+Name = "HDRMAPS Free 068"
+Author = "HDRMAPS.com"
+Location = "France"
+Comment = "Road in Dordogne"
+PREVIEWfile = "hdrmaps_com_free_068_Prev.jpg"
+GEOlat = 44.8059944999999970
+GEOlong = -0.5342661000000000
+Link = "http://hdrmaps.com"
+Date = "2014:04:09"
+Time = "11:31:00"
+
+
+[Background]
+BGfile = "hdrmaps_com_free_068_Bg.jpg"
+BGmap = 1
+BGu = 0.000000
+BGv = 0.000000
+BGheight = 2048
+
+[Enviroment]
+EVfile = "hdrmaps_com_free_068_Env.exr"
+EVmap = 1
+EVu = 0.000000
+EVv = 0.000000
+EVheight = 180
+EVmulti = 1.000000
+EVgamma = 2.200000
+
+[Reflection]
+REFfile = "hdrmaps_com_free_068_Ref.exr"
+REFmap = 1
+REFu = 0.000000
+REFv = 0.000000
+REFheight = 1024
+REFmulti = 1.000000
+REFgamma = 2.200000
+
